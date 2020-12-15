@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"mcre","characterIndex":0,"characterName":"mcre","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mcre","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mea","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"occ01_mv03_lyria_sv","characterIndex":0,"characterName":"occ01_mv03_lyria_tv_tvd","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"occ01_mv03_lyria_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lyria","nickname":"","note":"","profile":""}
+]
